@@ -1,0 +1,10 @@
+C:\Users\ilger\source\repos\GameOFLife\GameOFLife\bin\Debug\GameOFLife.exe.config
+C:\Users\ilger\source\repos\GameOFLife\GameOFLife\bin\Debug\GameOFLife.exe
+C:\Users\ilger\source\repos\GameOFLife\GameOFLife\bin\Debug\GameOFLife.pdb
+C:\Users\ilger\source\repos\GameOFLife\GameOFLife\obj\Debug\GameOFLife.csproj.AssemblyReference.cache
+C:\Users\ilger\source\repos\GameOFLife\GameOFLife\obj\Debug\GameOFLife.Form1.resources
+C:\Users\ilger\source\repos\GameOFLife\GameOFLife\obj\Debug\GameOFLife.Properties.Resources.resources
+C:\Users\ilger\source\repos\GameOFLife\GameOFLife\obj\Debug\GameOFLife.csproj.GenerateResource.cache
+C:\Users\ilger\source\repos\GameOFLife\GameOFLife\obj\Debug\GameOFLife.csproj.CoreCompileInputs.cache
+C:\Users\ilger\source\repos\GameOFLife\GameOFLife\obj\Debug\GameOFLife.exe
+C:\Users\ilger\source\repos\GameOFLife\GameOFLife\obj\Debug\GameOFLife.pdb
